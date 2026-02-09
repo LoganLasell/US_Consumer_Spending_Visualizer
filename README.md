@@ -67,3 +67,4 @@ The built files will be in the `dist` directory.
 ## Data Source
 
 Consumer spending data represents average annual household expenditures based on typical spending patterns.
+https://www.bls.gov/news.release/cesan.nr0.htm
