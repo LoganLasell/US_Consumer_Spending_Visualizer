@@ -2,6 +2,7 @@
 
 An interactive React application for visualizing consumer spending patterns across different categories.
 
+<img src ="us_spending_visual.png" alt = 'Visual' />
 ## Features
 
 - Interactive category selection with checkboxes
